@@ -1,4 +1,4 @@
-# OSEMCOP-
+# OSEMCOP
 Open Source Electric Motor Control Platform
 - under MIT license
 
