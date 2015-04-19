@@ -1,6 +1,5 @@
 # OSEMCOP
 Open Source Electric Motor Control Platform
-
 It's under MIT license see LICENSE.
 
 Author:
